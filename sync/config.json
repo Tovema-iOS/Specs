@@ -1,0 +1,19 @@
+[
+  {
+    "SrcRepo": "master",
+    "DestRepo": "tmspecs",
+    "Pods": [
+      "AFNetworking",
+      "GBDeviceInfo",
+      "CocoaLumberjack",
+      "Masonry",
+      "YYText",
+      "YYModel",
+      "WCDB",
+      "WCDBOptimizedSQLCipher",
+      "SQLiteRepairKit",
+      "LLSimpleCamera",
+      "HXPhotoPicker"
+    ]
+  }
+]
