@@ -13,7 +13,8 @@
       "WCDBOptimizedSQLCipher",
       "SQLiteRepairKit",
       "LLSimpleCamera",
-      "HXPhotoPicker"
+      "HXPhotoPicker",
+      "Google-Mobile-Ads-SDK"
     ]
   }
 ]
