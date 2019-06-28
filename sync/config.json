@@ -14,6 +14,9 @@
       "SQLiteRepairKit",
       "LLSimpleCamera",
       "HXPhotoPicker",
+      "GoogleAppMeasurement",
+      "GoogleUtilities",
+      "nanopb",
       "Google-Mobile-Ads-SDK"
     ]
   }
