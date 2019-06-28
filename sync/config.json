@@ -17,7 +17,9 @@
       "GoogleAppMeasurement",
       "GoogleUtilities",
       "nanopb",
-      "Google-Mobile-Ads-SDK"
+      "Google-Mobile-Ads-SDK",
+      "CYLDeallocBlockExecutor",
+      "SVProgressHUD"
     ]
   }
 ]
